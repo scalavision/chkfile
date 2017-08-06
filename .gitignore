@@ -1,2 +1,11 @@
 *.class
 *.log
+target
+project/target
+project/project
+target
+node_modules/
+web/gulp/css-output
+.idea/*
+.idea/modules
+
